@@ -1,6 +1,6 @@
 Hi, there! | I'm Kylym
 
-### I'm Fullstack JavaScript/Node.js Developer
+### Fullstack JavaScript/Node.js Developer
 I specializing in creating high-performance, scalable solutions for business and general purposes. I provide reliable, effective solutions with clean and maintainable code.
 
 ###  My Professional Philosophy
