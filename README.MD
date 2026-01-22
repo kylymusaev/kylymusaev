@@ -11,4 +11,4 @@ I specializing in creating high-performance, scalable solutions for business and
 ### Let's Connect
 * **Location:** Bishkek, Kyrgyzstan 🇰🇬 (Available for remote/hybrid)
 * **Interests:** Distributed Systems, Real-time APIs, Microservices, System Architecture
-* **Socials:** [LinkedIn](your-link) | [Telegram](your-link) | [Email](mailto:your-email@example.com)
+* **Socials:** [LinkedIn](https://www.linkedin.com/in/kylymusaev) | [Telegram](https://t.me/kylymusaev) | [Email](mailto:kylymusaev@gmail.com)
